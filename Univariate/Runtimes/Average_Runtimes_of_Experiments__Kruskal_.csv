@@ -1,0 +1,21 @@
+Experiment,Runtime (seconds)
+ACSF1Experiment,487.65
+AdiacExperiment,486.726
+ArrowHeadExperiment,28.116000000000003
+BMEExperiment,19.351999999999997
+BeefExperiment,37.712
+BeetleFlyExperiment,37.28
+BirdChickenExperiment,34.47
+CBFExperiment,20.035999999999998
+CarExperiment,60.926
+ToeSegmentation1Experiment,34.565999999999995
+ToeSegmentation2Experiment,36.902
+TraceExperiment,62.674
+TwoLeadECGExperiment,18.294
+UWaveGestureLibraryZExperiment,1247.7779999999998
+WaferExperiment,389.404
+WineExperiment,28.451999999999998
+WordSynonymsExperiment,261.274
+WormsExperiment,738.362
+WormsTwoClassExperiment,749.938
+YogaExperiment,427.558
