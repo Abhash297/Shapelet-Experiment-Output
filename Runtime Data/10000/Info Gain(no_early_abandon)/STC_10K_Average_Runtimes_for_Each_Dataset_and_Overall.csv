@@ -1,0 +1,22 @@
+,Dataset,Average Runtime
+0,ACSF1Experiment,286.832
+1,AdiacExperiment,406.548
+2,ArrowHeadExperiment,22.568
+3,BMEExperiment,17.881999999999998
+4,BeefExperiment,29.236
+5,BeetleFlyExperiment,28.624000000000002
+6,BirdChickenExperiment,22.826
+7,CBFExperiment,17.436
+8,CarExperiment,40.260000000000005
+9,ToeSegmentation1Experiment,28.416000000000004
+10,ToeSegmentation2Experiment,28.48
+11,TraceExperiment,45.704
+12,TwoLeadECGExperiment,15.256
+13,UWaveGestureLibraryZExperiment,1491.958
+14,WaferExperiment,878.558
+15,WineExperiment,24.2
+16,WordSynonymsExperiment,214.612
+17,WormsExperiment,434.354
+18,WormsTwoClassExperiment,435.532
+19,YogaExperiment,332.974
+20,Overall Average,240.11280000000002
