@@ -1,0 +1,32 @@
+testAccuracy,Kolmogorov,Info Gain,Info Gain(no_early_abandon),Kruskal Wallis,Moods Median,F-Stat,Wasserstein
+testAccuracyMean,0.8627509446268515,0.8625481184207009,0.8625481184207009,0.8653230169895025,0.8620108898238543,0.8582114230555586,0.82703930369091
+testAccuracyAvgRank,3.425,3.7,3.7,3.775,3.875,4.25,5.275
+
+testBalAcc,Kolmogorov,Kruskal Wallis,Info Gain,Info Gain(no_early_abandon),Moods Median,F-Stat,Wasserstein
+testBalAccMean,0.8509519325108397,0.8557189883728498,0.8508987953677334,0.8508987953677334,0.8499725262034993,0.8484025958960487,0.816227010041121
+testBalAccAvgRank,3.475,3.575,3.7,3.7,3.95,4.3,5.3
+
+testAUROC,Moods Median,Kruskal Wallis,Kolmogorov,Info Gain,Info Gain(no_early_abandon),F-Stat,Wasserstein
+testAUROCMean,0.9704948835546026,0.9705335610399896,0.9674065563482493,0.9665071448284897,0.9665071448284897,0.9657220746231155,0.9415718537286526
+testAUROCAvgRank,2.8,3.325,3.425,3.925,3.925,4.7,5.9
+
+testLogLoss,Kruskal Wallis,Kolmogorov,Moods Median,Info Gain,Info Gain(no_early_abandon),F-Stat,Wasserstein
+testLogLossMean,0.43436498817302766,0.47455402271673286,0.4474255630242071,0.4583425040490267,0.4583425040490267,0.47889624599098307,0.5579072591485588
+testLogLossAvgRank,2.75,3.5,3.7,3.95,3.95,4.8,5.35
+
+testF1,Kolmogorov,Kruskal Wallis,Info Gain,Info Gain(no_early_abandon),Moods Median,F-Stat,Wasserstein
+testF1Mean,0.8596462767928639,0.8624275182985881,0.8591027375201421,0.8591027375201421,0.8582109025020541,0.8557068469515539,0.8242538447039017
+testF1AvgRank,3.375,3.675,3.7,3.7,3.975,4.225,5.35
+
+testFitTime,Wasserstein,Kolmogorov,Info Gain(no_early_abandon),F-Stat,Info Gain,Moods Median,Kruskal Wallis
+testFitTimeMean,79049.15,81402.075,88439.85,82492.5,91953.7,83947.55,97291.775
+testFitTimeAvgRank,2.2,3.1,3.3,3.5,4.65,4.9,6.35
+
+testPredictTime,Wasserstein,Info Gain(no_early_abandon),Info Gain,F-Stat,Kruskal Wallis,Kolmogorov,Moods Median
+testPredictTimeMean,25337.275,25714.45,26710.075,26668.325,27381.625,27156.65,27503.025
+testPredictTimeAvgRank,1.9,2.9,3.4,3.9,4.6,5.0,6.3
+
+testMemoryUsage,Info Gain(no_early_abandon),Wasserstein,Kolmogorov,Kruskal Wallis,Info Gain,Moods Median,F-Stat
+testMemoryUsageMean,46954291.2,47024230.4,47079731.2,48548659.2,55395635.2,50857881.6,51506483.2
+testMemoryUsageAvgRank,2.65,2.9,3.4,3.95,4.55,5.25,5.3
+
